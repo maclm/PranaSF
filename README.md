@@ -1,2 +1,2 @@
 # PranaSF
-GitHub Page d'information sur le groupe d'achat Prana de Saint-Fidèle.
+GitHub Page d'information interne pour le groupe d'achat Prana de Saint-Fidèle.
